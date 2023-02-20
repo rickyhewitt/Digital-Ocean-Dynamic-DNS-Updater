@@ -4,3 +4,5 @@ mailconfig.txt
 
 *.pyc
 __pycache__/
+
+.env
