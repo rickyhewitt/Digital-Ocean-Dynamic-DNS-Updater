@@ -6,3 +6,4 @@ mailconfig.txt
 __pycache__/
 
 .env
+update.sh
